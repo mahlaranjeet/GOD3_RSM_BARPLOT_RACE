@@ -17,17 +17,6 @@
 
 
 
-<table>
-  <tbody align="center">
-    <tr>
-      <td>
-        <a href="barchart-race-matplotlib.ipynb" target="_blank">
-          <h4>Bar Chart Race in Python with Matplotlib</h4>
-          <img width="300" alt="img" src="https://pratapvardhan.com/img/bar-chart-race-2.gif" loading="lazy">
-        </a>
-      </td>
-
-
 ### Contributors
 - https://github.com/mahlaranjeet
 - ranjeet singh mahla
