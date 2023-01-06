@@ -26,15 +26,6 @@
           <img width="300" alt="img" src="https://pratapvardhan.com/img/bar-chart-race-2.gif" loading="lazy">
         </a>
       </td>
-      <td >
-        <a href="exploratory-spatial-data-analysis.ipynb" target="_blank">
-          <h4>Exploratory Spatial Data Analysis with Python</h4>
-          <img width="300" alt="img" src="https://pbs.twimg.com/media/EGnHb5fX0AAXajO?format=png&name=small" loading="lazy">
-        </a>
-      </td>
-    </tr>
-    <tr>
-
 
 
 ### Contributors
